@@ -1,20 +1,11 @@
 
 <h1 align="left"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);快乐来自您自己的行动&center=true&size=27"> </a> </h1>
 
-
-
 <div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=HuaZoffice&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
 <div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuaZoffice&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
-
-
 <div align="left"> <img src="https://github-profile-trophy.vercel.app/?username=HuaZoffice" /> </div>
-
-
-
-<div align="left"> <img src="https://github-profile-trophy.vercel.app/?username=HuaZoffice" /> </div>
-
 
 ##  📫 关于我
 
@@ -24,4 +15,12 @@
 
 [![Aifadian (sponsors)](https://img.shields.io/badge/dynamic/json?label=%E7%88%B1%E5%8F%91%E7%94%B5&labelColor=946ce6&suffix=+%E5%8F%91%E7%94%B5%E4%BA%BA%E6%AC%A1+%2F+%E6%9C%88&color=282c34&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3DafdianFans%26queryKey%3DKamchoyun&longCache=true)](https://afdian.net/@Kamchoyun)
 
+QQ : 2659656175
 
+Email :Kamchoyun@foxmail.com
+
+![](https://komarev.com/ghpvc/?username=HuaZofficex&style=flat-square)
+
+### 我的贡献
+
+![](https://raw.githubusercontent.com/huazoffice/huazoffice/main/assets/github-contribution-grid-snake.svg)

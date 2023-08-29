@@ -23,4 +23,4 @@ Email :Kamchoyun@foxmail.com
 
 ### 我的贡献
 
-![](https://raw.githubusercontent.com/huazoffice/huazoffice/main/assets/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://github.com/huazoffice/huazoffice/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://github.com/huazoffice/huazoffice/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)

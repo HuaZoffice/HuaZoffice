@@ -24,8 +24,4 @@
 
 [![Aifadian (sponsors)](https://img.shields.io/badge/dynamic/json?label=%E7%88%B1%E5%8F%91%E7%94%B5&labelColor=946ce6&suffix=+%E5%8F%91%E7%94%B5%E4%BA%BA%E6%AC%A1+%2F+%E6%9C%88&color=282c34&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3DafdianFans%26queryKey%3DKamchoyun&longCache=true)](https://afdian.net/@Kamchoyun)
 
-### 统计
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=HuaZoffice&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&theme=graywhite" />
 
